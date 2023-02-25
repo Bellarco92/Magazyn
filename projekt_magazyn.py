@@ -41,3 +41,4 @@ while True:
         magazyn.usun_produkt()
     elif wybor_uzytkownika == 4:
         sys.exit()
+        print('Wyjście z programu.')
