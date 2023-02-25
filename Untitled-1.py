@@ -1,0 +1,3 @@
+k = 'Asia'
+
+print(k)
