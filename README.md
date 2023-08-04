@@ -1,2 +1,2 @@
 # Magazyn
-My first mini project
+My first mini project.
